@@ -12,6 +12,3 @@ print(num1 == num2)
 print(num1 // num2)
 
 
-speed = 65
-ticket = speed > 70
-print(ticket)
