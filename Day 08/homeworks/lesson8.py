@@ -1,9 +1,14 @@
 name=input("enter your name: ")
 email=input("enter your email: ")
-if email == "likunna12@gmail.com":
+password=input("enter yor password: ")
+if email == "likuna12@.com":
     print("successfull")
 else:
     print("unssuccesfull")
+if password == "liks123":
+    print("successfully signed up")
+else:
+    print("could not sign up")
 
 age=int(input("enter your age: "))
 
