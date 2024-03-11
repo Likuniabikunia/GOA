@@ -16,6 +16,6 @@
 
 
 
-movie_list = ["Flipped", "Aquaman", "Twighlight", "Weathering with you", "Orphan"]
-print(movie_list)
-print(movie_list[0])
+# movie_list = ["Flipped", "Aquaman", "Twighlight", "Weathering with you", "Orphan"]
+# print(movie_list)
+# print(movie_list[0])

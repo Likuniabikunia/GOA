@@ -41,8 +41,7 @@
 # print(num_list[0] + num_list[1] + num_list[2])
 
 
-nums = [1, 5, 4, 8]
-print(nums[0] + nums[2])
+
 
 
 
