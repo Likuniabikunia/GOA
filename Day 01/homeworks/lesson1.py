@@ -6,3 +6,5 @@ print(name + " " + (surname) + " " + ("aris") + " " + str(age) + " " + ("wlis"))
 print(name + " " + ("aris") + " " + str(height) + " " + ("metri"))
 print(name +" " + ("swavlobs") + " " + ("goa") + " " + ("shi"))
 
+
+

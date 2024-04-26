@@ -5,7 +5,7 @@
 #     for i in num:
 #         total = total + i
 #     return total 
-# num = [98,8,1,5,6,18]
+# num = [98,8,1,5,6,18,90]
 # print(sum_of_numbers_in_list(num))
 
 
@@ -34,7 +34,7 @@
 #             even_numbers_list.append(num)
 #     return even_numbers_list    
 
-# print(even_numbers([67,83,29,22,25]))
+# print(even_numbers([67,83,29,22,25,42,84]))
 
 
 
@@ -82,7 +82,7 @@
 # print(string_lenghts(word))
 
 
-#8
+
 
 
 

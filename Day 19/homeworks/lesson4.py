@@ -7,3 +7,4 @@ def sum_array(a):
         sum = sum + num
     return sum
 print(sum_array([1,5,6,]))
+

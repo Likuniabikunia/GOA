@@ -96,8 +96,8 @@
 # print(name[-1])
 
 
-#using for loop ask user for a number.
-#then create a list which will have even numbers in next range: from 0 to users number, then print the whole list
+# using for loop ask user for a number.
+# then create a list which will have even numbers in next range: from 0 to users number, then print the whole list
 
 # number = int(input("enter the number: "))
 # even_num_list = []
