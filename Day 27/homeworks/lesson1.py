@@ -31,7 +31,7 @@
 #             names_list.append(arr[i].lower())
 #     return names_list
 
-# names = ["lika", "AlEqSANdRe", "MATE"]
+# names = ["lika", "AlEqSANdRe", "MATE"]f
 # result = word(names)
 # print(result)
 
